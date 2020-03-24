@@ -1,4 +1,3 @@
-package application;
 
 public class OnlineCustomer extends Customer
 {
